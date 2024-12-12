@@ -5,21 +5,21 @@
     box-sizing: border-box;
 }
 .item1{
-    background: url(/ImageSlider/assets/images/brown-wooden-dock.jpg);
+    background: url(/JavaScriptSlider/assets/images/brown-wooden-dock.jpg);
 }
 .item2{
-    background: url(/ImageSlider/assets/images/fuji-mountain-kawaguchiko-lake-morning-autumn-seasons-fuji-mountain-yamanachi-japan.jpg);
+    background: url(/JavascriptSlider/assets/images/fuji-mountain-kawaguchiko-lake-morning-autumn-seasons-fuji-mountain-yamanachi-japan.jpg);
 }
 .item3{
-    background: url(/ImageSlider/assets/images/landscape-with-lake-sunset.jpg);
+    background: url(/JavascriptSlider/assets/images/landscape-with-lake-sunset.jpg);
 }
 .item4{
-    background: url(/ImageSlider/assets/images/lone-tree.jpg);
+    background: url(/JavascriptSlider/assets/images/lone-tree.jpg);
 
 
 }
 .item5{
-    background: url(/ImageSlider/assets/images/vestrahorn-mountains-stokksnes-iceland.jpg);
+    background: url(/JavascriptSlider/assets/images/vestrahorn-mountains-stokksnes-iceland.jpg);
 }
 body{
     background: rgb(236, 236, 236);
